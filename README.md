@@ -1,2 +1,8 @@
 # netflix-clone
  
+# e4cd4ef014365db372ea643e883bbd85
+
+# https://api.themoviedb.org/3/movie/550?api_key=e4cd4ef014365db372ea643e883bbd85
+
+# eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNGNkNGVmMDE0MzY1ZGIzNzJlYTY0M2U4ODNiYmQ4NSIsInN1YiI6IjYwYWZjZDdhNGY5YTk5MDAzZmEzNDFmNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gqX4sGQb_MM2ZtZ31wmL_jNm0t2QjNKkg2mQp2BEjlE
+
